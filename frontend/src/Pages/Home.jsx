@@ -12,6 +12,7 @@ const Home = () => {
         <Stack 
         px='30px'
         py='40px'
+        spacing={'15px'}
         >
             {/* Top section */}
             <Flex gap={'20px'}>
