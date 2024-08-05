@@ -1,5 +1,8 @@
 # Directory Listing
 
+## Deployed Link:
+Frontend: https://directory-listing-kdigitalcurry.vercel.app/
+
 ## Tech Stack:
 
 ### Frontend:
